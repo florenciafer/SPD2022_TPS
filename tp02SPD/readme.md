@@ -27,7 +27,7 @@
         Division: 1 F
                 ---- Primer cuatrimestre 2022 ----
                 ---- Link Proyecto ----
-        https://www.tinkercad.com/things/hdYHDE17WUT-tp-02-reloj-con-servomotores-y-display-lcd/editel?sharecode=64-2lmi-g5xVrfm7w0bzBl45Zi0-M7DJsdB2684nRSU
+      https://www.tinkercad.com/things/hdYHDE17WUT
         
                 Fecha de entrega 29/06/2022
 
